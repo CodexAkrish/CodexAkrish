@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Software and Website Development
 - 💞️ I’m looking to collaborate on Learning Focused Projects
 - 📫 How to reach me? Just send an email!
-- 😄 Pronouns: Lord / God
 - ⚡ Fun fact: Eggs are not blue ;)
 
 <!---
